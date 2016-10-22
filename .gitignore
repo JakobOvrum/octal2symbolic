@@ -1,0 +1,12 @@
+# Binary
+/octal2symbolic
+
+# DMD code coverage files
+*.lst
+
+# Dub
+/.dub
+/dub.selections.json
+
+# Temporary files
+*.swp
