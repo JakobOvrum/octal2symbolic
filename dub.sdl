@@ -1,5 +1,4 @@
 name "octal2symbolic"
-description "A minimal D application."
-authors "ja_cop"
-copyright "Copyright © 2016, ja_cop"
-license "proprietary"
+description "Convert UNIX file modes from octal to symbolic notation"
+authors "Jakob Øvrum"
+license "public domain"
